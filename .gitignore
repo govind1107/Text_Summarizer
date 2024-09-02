@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+artifacts
+nlp
+
 # C extensions
 *.so
 
